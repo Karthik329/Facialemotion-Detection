@@ -1,5 +1,5 @@
 {
-  "name": "objectdetection",
+  "name": "facialemotiondetection",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Karthik329/Objectdetection.git"
+    "url": "https://github.com/Karthik329/Facialemotion-Detection"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Karthik329/Objectdetection/issues"
+    "url": "https://github.com/Karthik329/facialemotiondetection/issues"
   },
-  "homepage": "https://github.com/Karthik329/Objectdetection#readme",
+  "homepage": "https://github.com/Karthik329/Facialemotion-Detection",
   "description": ""
 }
